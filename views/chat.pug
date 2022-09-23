@@ -1,0 +1,13 @@
+html
+    head
+    link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css")
+    link(rel="stylesheet", href="public/css/color.css")
+    body.d-flex.text-center.flex-column.align-items-center  
+        h1.w-100.p-3.pt-4.purple.text-white.font-bold.font-3 LKF 채팅
+        div#chat.w-50.h-75.p-5.gray.text-bottom.overflow-auto
+            h3.p-2.green.fw-bold.text-white.font-4 채팅 예시
+        form(action="/chat" onsubmit="return false;")#form.w-50
+            input(type="text" placeholder="채팅을 입력하세요.")#input.w-75.m-3.p-3.font-1.fs-3
+            a#btn.p-3.btn.btn-primary.font-4 보내기
+    script(src="public/chat.js") 
+

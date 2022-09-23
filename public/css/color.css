@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'GangwonEduSaeeum_OTFMediumA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduSaeeum_OTFMediumA.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'establishRoomNo703OTF';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRoomNo703OTF.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SDSamliphopangche_Outline';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cafe24Oneprettynight';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.blue {
+  background-color: #88c5fa;
+}
+
+.yellow {
+  background-color: #fff9be;
+}
+
+.purple {
+  background-color: #9682cb;
+}
+
+.gray {
+  background-color: #cfd4d5;
+}
+
+.green {
+  background-color: #61b299;
+}
+
+.lightgreen {
+  background-color: #e0fadf;
+}
+/* color: #90cdd2, #61b299, #cde59b, #fdceb9, #ffecb9, #cfd4d5;
+  background: #88c5fa, #95e2ec, #e0fadf, #fff9be, #fad6dd, #d0c6e9;
+  #01a8e7,
+  #38dbee,
+  #8cd9e6,
+  #ffecb9be,
+  #fef3be,
+  #fced8a,
+  #f9c177;
+} */
+
+.font-1 {
+  font-family: 'GangwonEduSaeeum_OTFMediumA';
+}
+
+.font-2 {
+  font-family: 'establishRoomNo703OTF';
+}
+
+.font-3 {
+  font-family: 'SDSamliphopangche_Outline';
+}
+
+.font-4 {
+  font-family: 'Cafe24Oneprettynight';
+}
